@@ -1,0 +1,5 @@
+{
+  "name": "AI Steam Game Curator",
+  "description": "An AI-powered application to help you select a game to play from your Steam library based on your own custom metadata and current mood. Upload your game list and preferences, then let the AI find the perfect match.",
+  "requestFramePermissions": []
+}
